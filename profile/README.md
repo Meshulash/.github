@@ -2,4 +2,4 @@
 
 ## YonaAI
 
-YonaAI is an AI model and chatbot in the making, that will be able to assist teenagers with legal matters by analyzing and elucidating Israeli laws, utilizing retrieval-augmented generation (RAG) technology.
+YonaAI is an AI model and chatbot in the making, that will be able to assist teenagers with legal matters by analyzing and elucidating Israeli laws, utilizing retrieval-augmented generation (RAG) technology. Once completed, the project will be open source right here on GitHub.
