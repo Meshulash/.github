@@ -7,4 +7,4 @@
 - [Dashboard](https://aim.meshulash.ai)
 - [Docs](https://docs.meshulash.ai)
 
-▲ AIM is our upcoming AI management system for enterprises, which offers unprecedented security and administration features.
+Our upcoming AI management system for enterprises, which offers unprecedented security and administration features.
