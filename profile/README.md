@@ -1,3 +1,1 @@
-# ▲ GitHub Organization
-
-Trust us—things are coming soon.
+# ▲ Trust us—things are [coming soon](https://meshulash.ai/).
